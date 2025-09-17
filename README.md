@@ -1,3 +1,6 @@
+<img width="1050" height="662" alt="image" src="https://github.com/user-attachments/assets/8e8456e0-4f04-4ea8-b8f1-1e06b3061b3b" />
+
+
 ## Aplikasi Interaktif Caesar Cipher
 Ini adalah aplikasi web sederhana satu halaman yang mengimplementasikan algoritma kriptografi klasik, yaitu Caesar Cipher. Aplikasi ini dirancang untuk memberikan pengalaman interaktif bagi pengguna untuk mengenkripsi dan mendekripsi pesan dengan mudah, sambil mempelajari dasar-dasar cara kerja cipher.
 
@@ -18,3 +21,4 @@ Ini adalah aplikasi web sederhana satu halaman yang mengimplementasikan algoritm
 - HTML5: Struktur dasar halaman web.
 - Tailwind CSS: Untuk styling dan tata letak yang responsif.
 - JavaScript: Untuk logika enkripsi, dekripsi, dan interaksi pengguna.
+
