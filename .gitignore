@@ -1,0 +1,15 @@
+## File yang dibuat oleh OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.cache
+.project
+
+## File yang dibuat oleh IDE
+.idea/
+.vscode/
+
+## File log dan sementara
+*.log
+*.tmp
+temp/
